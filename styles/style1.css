@@ -1,0 +1,60 @@
+.headpart{
+    display: flex;
+    justify-content: space-around;
+    background-color: hsl(226, 67%, 49%);
+    color: white;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.head1{
+    padding: 2px;
+}
+.head2{
+    display:flex;
+    list-style: none;
+}
+
+.head2 li{
+    padding-left: 20px;
+   
+}
+
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.46);
+}
+
+.navdiv1{
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navdiv2{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.navdiv2 li{
+    list-style: none;
+    margin-right: 100px;
+}
+
+.navdiv2 li a{
+    text-decoration: none;
+}
+
+.main1 img{
+    width: 100%;
+    height: 100vh;
+}
+
+
+footer{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
